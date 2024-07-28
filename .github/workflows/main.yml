@@ -10,7 +10,7 @@ permissions: write-all
 
 # replace with your names
 env:
-  CHANNEL_REPO: sturdy-barnacle
+  CHANNEL_REPO: blackink0
   BRANCH: main
 
 jobs:
