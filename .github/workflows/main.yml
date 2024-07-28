@@ -4,13 +4,13 @@ name: backup workflow
 
 on:
   schedule:
-    - cron: '20 21 * * *'
+    - cron: '20 23 * * *'
   
 permissions: write-all
 
 # replace with your names
 env:
-  CHANNEL_REPO: blackink0
+  CHANNEL_REPO: sturdy-barnacle
   BRANCH: main
 
 jobs:
