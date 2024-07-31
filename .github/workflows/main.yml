@@ -4,7 +4,7 @@ name: backup workflow
 
 on:
   schedule:
-    - cron: '10 * * * *'
+    - cron: '44 13 * * *'
   
 permissions: write-all
 
